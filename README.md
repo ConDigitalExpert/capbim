@@ -4,6 +4,8 @@ Capture-to-BIM desk. Plan the photographs with the Fraser / GSD predictor, run t
 
 Later stages obey the threshold file on a parametric room. They are not a Metashape survey, and a signed statement is not a certificate.
 
+The continuation brief is [HANDOVER.md](HANDOVER.md).
+
 ```bash
 npm install
 npm run dev
